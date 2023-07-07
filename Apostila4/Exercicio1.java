@@ -7,9 +7,9 @@
         System.out.print("Digite a sua idade: ");
         int year = idadeM.nextInt();
         if(year>18){
-                System.out.println("O usuario "+Name+" é maior de idade");
-                }else{
-                System.out.println("O usuario "+Name+" é menor de idade");
-                }
-                }
-                }
+        System.out.println("O usuario "+Name+" é maior de idade");
+        }else{
+        System.out.println("O usuario "+Name+" é menor de idade");
+        }
+        }
+        }
