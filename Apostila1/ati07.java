@@ -1,4 +1,4 @@
-        public class Exercicio7 {
+        public class Ati07{
         public static void main(String[] args) {
         System.out.println("           $           ");
         System.out.println("        $      $       ");
